@@ -1,0 +1,14 @@
+body{
+    background-color: black;
+}
+h1{
+    color: antiquewhite;
+    margin-left: 25%;
+}
+form{
+    background-color: aliceblue;
+    border: 3px solid black;
+    display: flex;
+    flex-direction: column;
+    margin: 10% 20%;
+}
